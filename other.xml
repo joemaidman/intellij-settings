@@ -1,0 +1,32 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.2.1/bin/node">
+      <version-cache version="8.2.1" last-modified="1500585854000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.1.2/bin/node">
+      <version-cache version="8.1.2" last-modified="1498486393000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.1.2" last-modified="1498486393000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.1/bin/node">
+      <version-cache version="7.10.1" last-modified="1499740951000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.7.3/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" SelectedBinding="JAXB 2.0">
+    <StubPackage>betdaq</StubPackage>
+    <StubUrl>http://api.betdaq.com/v2.0/API.wsdl</StubUrl>
+    <StubUrl>http://api.betdaq.com/v2.0/API.wsdl#types?schema1</StubUrl>
+  </component>
+</application>
